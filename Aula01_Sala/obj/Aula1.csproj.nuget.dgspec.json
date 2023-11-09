@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/Aula1/Aula1.csproj": {}
+    "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/dotNet_p03/Aula01_Sala/Aula1.csproj": {}
   },
   "projects": {
-    "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/Aula1/Aula1.csproj": {
+    "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/dotNet_p03/Aula01_Sala/Aula1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/Aula1/Aula1.csproj",
+        "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/dotNet_p03/Aula01_Sala/Aula1.csproj",
         "projectName": "Aula1",
-        "projectPath": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/Aula1/Aula1.csproj",
+        "projectPath": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/dotNet_p03/Aula01_Sala/Aula1.csproj",
         "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
-        "outputPath": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/Aula1/obj/",
+        "outputPath": "/home/giuseppe-mota-araujo/Documentos/workflow/DotNet/dotNet_p03/Aula01_Sala/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/giuseppe-mota-araujo/.nuget/NuGet/NuGet.Config"

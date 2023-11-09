@@ -20,3 +20,11 @@
     Console.WriteLine("O máximo double é: " + tipoDouble);
 
 #endregion
+
+#region Operadores
+
+    tipoDouble = tipoInteiro + tipoLong;
+    System.Console.WriteLine(tipoDouble);
+    tipoInteiro = 10 > 5 ? 1 : 0;
+
+#endregion

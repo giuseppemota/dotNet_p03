@@ -7,7 +7,11 @@
     string tipoString;
     long tipoLong;
 
-    tipoInteiro = int.MaxValue;
+    tipoString = "100";
+
+    tipoInteiro = int.Parse(tipoString);
+
+    //tipoInteiro = int.MaxValue;
     tipoLong = long.MaxValue;
     tipoDouble = double.MaxValue;
 

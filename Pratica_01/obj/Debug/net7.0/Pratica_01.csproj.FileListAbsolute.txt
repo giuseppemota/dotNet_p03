@@ -1,0 +1,14 @@
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\bin\Debug\net7.0\Pratica_01.exe
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\bin\Debug\net7.0\Pratica_01.deps.json
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\bin\Debug\net7.0\Pratica_01.runtimeconfig.json
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\bin\Debug\net7.0\Pratica_01.dll
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\bin\Debug\net7.0\Pratica_01.pdb
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.AssemblyInfoInputs.cache
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.AssemblyInfo.cs
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.csproj.CoreCompileInputs.cache
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.dll
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\refint\Pratica_01.dll
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.pdb
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\Pratica_01.genruntimeconfig.cache
+C:\Users\lord_\ResidenciaTIC18\dotNet_p03\Pratica_01\obj\Debug\net7.0\ref\Pratica_01.dll

@@ -58,3 +58,39 @@ double numeroDouble = 10.7;
         Console.WriteLine(resultado);
 #endregion
 
+#region Operadores de Igualdade:
+
+        string str1 = "Hello";
+        string str2 = "World";
+        string result;
+
+        result = (str1 == str2) ? "Strings iguais" : "Strings diferentes";
+        Console.WriteLine(result);
+
+#endregion
+
+#region Operadores Logicos: 
+
+        bool condicao1 = true;
+        bool condicao2 = false;
+        string result1;
+
+        result1 = (condicao1 && condicao2) ? "Ambos são verdadeiros." : "Pelo menos uma das condições é falsa.";
+        Console.WriteLine(result1);
+
+#endregion
+
+#region Mistura de Operadores:
+
+        int num1 = 7;
+        int num2 = 3;
+        int num3 = 10;
+        bool result2;
+        bool result3;
+        result2 = (num1 > num2) ? true : false;
+        Console.WriteLine(result2);
+
+        result3 = (num3 == (num1+num2)) ? true : false;
+        Console.WriteLine(result3);
+
+#endregion

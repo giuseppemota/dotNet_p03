@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1.csproj": {}
+    "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj": {}
   },
   "projects": {
-    "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1.csproj": {
+    "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1.csproj",
-        "projectName": "Aula1",
-        "projectPath": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1.csproj",
+        "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
+        "projectName": "Aula1_Sala",
+        "projectPath": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
         "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
         "outputPath": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/obj/",
         "projectStyle": "PackageReference",

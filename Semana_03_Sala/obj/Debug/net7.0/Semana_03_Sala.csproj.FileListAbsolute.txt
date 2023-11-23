@@ -1,0 +1,15 @@
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/bin/Debug/net7.0/Semana_03_Sala
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/bin/Debug/net7.0/Semana_03_Sala.deps.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/bin/Debug/net7.0/Semana_03_Sala.runtimeconfig.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/bin/Debug/net7.0/Semana_03_Sala.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/bin/Debug/net7.0/Semana_03_Sala.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.csproj.AssemblyReference.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.GeneratedMSBuildEditorConfig.editorconfig
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.AssemblyInfoInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.AssemblyInfo.cs
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.csproj.CoreCompileInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/refint/Semana_03_Sala.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/Semana_03_Sala.genruntimeconfig.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/Debug/net7.0/ref/Semana_03_Sala.dll

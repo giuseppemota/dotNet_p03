@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
+      "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
       "projectName": "Aula1_Sala",
-      "projectPath": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
+      "projectPath": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Aula01_Sala/Aula1_Sala.csproj",
       "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
-      "outputPath": "/home/giuseppe-mota-araujo/Documentos/ResidenciaTIC18/dotNet_p03/Aula01_Sala/obj/",
+      "outputPath": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Aula01_Sala/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/giuseppe-mota-araujo/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
       }
     }
   }

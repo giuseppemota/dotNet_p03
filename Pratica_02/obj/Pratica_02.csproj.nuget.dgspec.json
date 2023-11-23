@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Aula02_Sala\\Aula02_Sala.csproj": {}
+    "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Pratica_02\\Pratica_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Aula02_Sala\\Aula02_Sala.csproj": {
+    "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Pratica_02\\Pratica_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Aula02_Sala\\Aula02_Sala.csproj",
-        "projectName": "Aula02_Sala",
-        "projectPath": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Aula02_Sala\\Aula02_Sala.csproj",
+        "projectUniqueName": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Pratica_02\\Pratica_02.csproj",
+        "projectName": "Pratica_02",
+        "projectPath": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Pratica_02\\Pratica_02.csproj",
         "packagesPath": "C:\\Users\\lord_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Aula02_Sala\\obj\\",
+        "outputPath": "C:\\Users\\lord_\\ResidenciaTIC18\\dotNet_p03\\Pratica_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lord_\\AppData\\Roaming\\NuGet\\NuGet.Config"

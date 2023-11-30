@@ -7,7 +7,7 @@ public abstract class Relatorio
 
         foreach (var advogado in advogadosFiltrados)
         {
-            Console.WriteLine(advogado.ToString());
+            Console.WriteLine(advogado.Nome);
         }
     }
 
@@ -19,7 +19,7 @@ public abstract class Relatorio
         {
             if (item.Idade >= idadeMin && item.Idade <= idadeMax)
             {
-                Console.WriteLine(item.ToString());
+                Console.WriteLine(item.Nome);
             }
         }
     }
@@ -30,23 +30,25 @@ public abstract class Relatorio
         {
             if (item.EstadoCivil)
             {
-                Console.WriteLine("Solteiro");
+                Console.WriteLine(item.Nome + " " + "Solteiro");
             }
             else
             {
-                Console.WriteLine("Casado");
+                Console.WriteLine(item.Nome + " " + "Casado");
             }
         }
     }
 
     public static void ClienteOrdemAlfabetica(List<Cliente> lista)
     {
-        lista.Sort();
-        foreach (var item in lista)
+        var clientesOrdenados = lista.OrderBy(cliente => cliente.Nome);
+
+        foreach (var item in clientesOrdenados)
         {
-            Console.WriteLine(item.ToString());
+            Console.WriteLine(item.Nome);
         }
     }
+
 
     public static void ClienteComProfissao(List<Cliente> lista, string profissao)
     {
@@ -54,7 +56,7 @@ public abstract class Relatorio
 
         foreach (var cliente in clientesComProfissao)
         {
-            Console.WriteLine(cliente.ToString());
+            Console.WriteLine(cliente.Nome);
         }
     }
 
@@ -65,14 +67,14 @@ public abstract class Relatorio
         {
             if (item.DataNascimento.Month == mes)
             {
-                Console.WriteLine(item.ToString());
+                Console.WriteLine(item.Nome);
             }
         }
         foreach (var item in lista2)
         {
             if (item.DataNascimento.Month == mes)
             {
-                Console.WriteLine(item.ToString());
+                Console.WriteLine(item.Nome);
             }
         }
     }

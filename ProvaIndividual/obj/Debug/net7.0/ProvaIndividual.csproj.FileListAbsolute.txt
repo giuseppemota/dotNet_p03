@@ -1,0 +1,15 @@
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/bin/Debug/net7.0/ProvaIndividual
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/bin/Debug/net7.0/ProvaIndividual.deps.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/bin/Debug/net7.0/ProvaIndividual.runtimeconfig.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/bin/Debug/net7.0/ProvaIndividual.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/bin/Debug/net7.0/ProvaIndividual.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.csproj.AssemblyReference.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.GeneratedMSBuildEditorConfig.editorconfig
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.AssemblyInfoInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.AssemblyInfo.cs
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.csproj.CoreCompileInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/refint/ProvaIndividual.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ProvaIndividual.genruntimeconfig.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ProvaIndividual/obj/Debug/net7.0/ref/ProvaIndividual.dll

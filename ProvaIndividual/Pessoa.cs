@@ -1,22 +1,27 @@
 namespace ProvaIndividual;
 public abstract class Pessoa
 {
+
+    protected string? _Cpf;
+    protected DateTime _DataNascimento;
+    protected string? _Nome;
     public string? Nome { get; set; }
+
+
     public string? Cpf
     {
-        get { return Cpf; }
+        get {return _Cpf;}
         set
         {
-            if (value.Length != 11) throw new Exception("Cpf inválido");
-            Cpf = value;
+            if (value?.Length != 11 || !value.All(char.IsDigit))
+            { throw new Exception("Cpf inválido"); }
+            else _Cpf = value;
         }
     }
     public DateTime DataNascimento
     {
         get
-        {
-            return DataNascimento;
-        }
+        {return _DataNascimento;}
         set
         {
             if (value > DateTime.Now)
@@ -25,7 +30,7 @@ public abstract class Pessoa
             }
             else
             {
-                DataNascimento = value;
+                _DataNascimento = value;
             }
         }
     }

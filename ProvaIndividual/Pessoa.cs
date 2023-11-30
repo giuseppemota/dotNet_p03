@@ -7,7 +7,7 @@ public abstract class Pessoa
     protected string? _Nome;
     public string? Nome { get; set; }
 
-
+    public int Idade => DateTime.Now.Year - DataNascimento.Year;
     public string? Cpf
     {
         get {return _Cpf;}

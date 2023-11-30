@@ -18,9 +18,17 @@ henrique.Nome = "Henrique";
 henrique.Profissao = "Debugger";
 henrique.EstadoCivil = true;
 
+Cliente pedro = new Cliente();
+pedro.DataNascimento = new DateTime(15, 05, 1993);
+pedro.Cpf = "1234565342";
+pedro.Nome = "Pedro";
+pedro.Profissao = "Developer";
+pedro.EstadoCivil = true;
 
-List<Advogado> advogados = new List<Advogado>();
-advogados.Add(giuseppe);
+EscritorioAdvocacia escritorio = new EscritorioAdvocacia();
+escritorio.AdicionarAdvogado(giuseppe);
+escritorio.AdicionarCliente(henrique);
+escritorio.AdicionarCliente(pedro);
+escritorio.RemoverAdvogado(giuseppe);
+escritorio.RemoverCliente(henrique);
 
-List<Cliente> clientes = new List<Cliente>();
-clientes.Add(henrique);

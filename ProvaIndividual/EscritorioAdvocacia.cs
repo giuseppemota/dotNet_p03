@@ -4,6 +4,22 @@ public class EscritorioAdvocacia
     protected List<Advogado> advogados = new List<Advogado>();
     protected List<Cliente> clientes = new List<Cliente>();
 
+    public List<Advogado> Advogados
+    {
+        get
+        {
+            return advogados;
+        }
+    }
+
+    public List<Cliente> Clientes
+    {
+        get
+        {
+            return clientes;
+        }
+    }
+
     public void AdicionarAdvogado(Advogado advogado)
     {
         if (advogados.Exists(x => x.Cpf == advogado.Cpf || x.CNA == advogado.CNA))

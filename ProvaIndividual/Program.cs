@@ -32,3 +32,11 @@ escritorio.AdicionarCliente(pedro);
 escritorio.RemoverAdvogado(giuseppe);
 escritorio.RemoverCliente(henrique);
 
+Relatorio.AdvogadoIdadeEntre(escritorio.Advogados, 18, 30);
+Relatorio.ClienteIdadeEntre(escritorio.Clientes, 18, 30);
+Relatorio.ClienteComProfissao(escritorio.Clientes, "Developer");
+Relatorio.ClienteEstadoCivil(escritorio.Clientes);
+Relatorio.ClienteOrdemAlfabetica(escritorio.Clientes);
+Relatorio.PessoasAniversariantes(escritorio.Advogados, escritorio.Clientes, 12);
+
+

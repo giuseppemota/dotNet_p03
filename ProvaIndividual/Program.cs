@@ -25,6 +25,8 @@ pedro.Nome = "Pedro";
 pedro.Profissao = "Developer";
 pedro.EstadoCivil = true;
 
+
+
 EscritorioAdvocacia escritorio = new EscritorioAdvocacia();
 escritorio.AdicionarAdvogado(giuseppe);
 escritorio.AdicionarCliente(henrique);

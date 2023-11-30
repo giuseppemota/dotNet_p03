@@ -1,0 +1,15 @@
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/bin/Debug/net7.0/ExercioAula04
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/bin/Debug/net7.0/ExercioAula04.deps.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/bin/Debug/net7.0/ExercioAula04.runtimeconfig.json
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/bin/Debug/net7.0/ExercioAula04.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/bin/Debug/net7.0/ExercioAula04.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.csproj.AssemblyReference.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.GeneratedMSBuildEditorConfig.editorconfig
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.AssemblyInfoInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.AssemblyInfo.cs
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.csproj.CoreCompileInputs.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/refint/ExercioAula04.dll
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.pdb
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ExercioAula04.genruntimeconfig.cache
+/home/giuseppe-mota-araujo/Documentos/dotNet_p03/ExercioAula04/obj/Debug/net7.0/ref/ExercioAula04.dll

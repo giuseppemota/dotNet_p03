@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/giuseppe-mota-araujo/Documents/WebAPI/TechMed.WebAPI/TechMed.WebAPI.csproj": {}
+    "/home/giuseppe-mota-araujo/Documents/dotNet_p03/TechMed.WebAPI/TechMed.WebAPI.csproj": {}
   },
   "projects": {
-    "/home/giuseppe-mota-araujo/Documents/WebAPI/TechMed.WebAPI/TechMed.WebAPI.csproj": {
+    "/home/giuseppe-mota-araujo/Documents/dotNet_p03/TechMed.WebAPI/TechMed.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/giuseppe-mota-araujo/Documents/WebAPI/TechMed.WebAPI/TechMed.WebAPI.csproj",
+        "projectUniqueName": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/TechMed.WebAPI/TechMed.WebAPI.csproj",
         "projectName": "TechMed.WebAPI",
-        "projectPath": "/home/giuseppe-mota-araujo/Documents/WebAPI/TechMed.WebAPI/TechMed.WebAPI.csproj",
+        "projectPath": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/TechMed.WebAPI/TechMed.WebAPI.csproj",
         "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
-        "outputPath": "/home/giuseppe-mota-araujo/Documents/WebAPI/TechMed.WebAPI/obj/",
+        "outputPath": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/TechMed.WebAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/giuseppe-mota-araujo/.nuget/NuGet/NuGet.Config"

@@ -1,3 +1,4 @@
+using System.Collections;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -19,21 +20,43 @@ public class MedicosController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetWeatherForecast")]
+    [HttpGet(Name = "GetMedico")]
+
     public IEnumerable<Medico> Get()
     {
+        List<Medico> medicos = new List<Medico>();
         return Enumerable.Range(1, 5).Select(index => new Medico
         {
             Nome = MedicList[Random.Shared.Next(MedicList.Length)],
-            
-            CRM = Random.Shared.Next(1, 1000)// faça com que tenha 6 digitos
+
+            CRM = Random.Shared.Next(1, 1000)
 
 
         })
         .ToArray();
+
     }
 
+    [HttpDelete(Name = "DeleteMedico")]
+
+    public IActionResult Delete()
+    {
 
 
+        return Ok("deletado");
+    }
+
+    [HttpPost(Name = "PostMedico")]
+    public IActionResult Post()
+    {
+
+        return Ok("postado");
+    }
+
+    [HttpPut(Name = "PutMedico")]
+    public IActionResult Put()
+    {
+        return Ok("atualizado");
+    }
 
 }

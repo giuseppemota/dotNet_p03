@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/giuseppe-mota-araujo/Documents/Aula09_dotNet/Domain/Domain.csproj",
+      "projectUniqueName": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/home/giuseppe-mota-araujo/Documents/Aula09_dotNet/Domain/Domain.csproj",
+      "projectPath": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/Domain/Domain.csproj",
       "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
-      "outputPath": "/home/giuseppe-mota-araujo/Documents/Aula09_dotNet/Domain/obj/",
+      "outputPath": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/giuseppe-mota-araujo/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
       }
     }
   }

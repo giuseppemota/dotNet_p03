@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BSFe8GNtM36vZ6+ngCjTTmVcLZB5vCKRfT28hZ2uou1yjzeLTw7hQP44mACyqRMjpKQO6Sn44P0UrSOptrM/uw==",
+  "dgSpecHash": "YAeJoNzVX7rTxb8xUiHKULaUbdSWemLWTT0PxZ+5fpGcrIN99MSO/0XBo1bZbL4Jzw00az6y7UF7bBUXzZ4lyQ==",
   "success": true,
-  "projectFilePath": "/home/giuseppe-mota-araujo/Documents/Aula09_dotNet/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/home/giuseppe-mota-araujo/Documents/dotNet_p03/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [
     "/home/giuseppe-mota-araujo/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/giuseppe-mota-araujo/.nuget/packages/microsoft.entityframeworkcore/7.0.15/microsoft.entityframeworkcore.7.0.15.nupkg.sha512",

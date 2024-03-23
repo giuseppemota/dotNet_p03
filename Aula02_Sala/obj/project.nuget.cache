@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wbAE9/MVXfDklfciJkX8Wk47W7Pc0VPcazCZtDPjSZiJ5ThGKFH8qVtE31GcTrnnxUle3KS/8IOmid+qD+8zHw==",
+  "dgSpecHash": "Az9xLgreyp5Oi1Wh+FVdhKtGuAJa4PWNb6Nfu6+nM3LE1ej1U24Tu7JVd1JkHnh3mtfwXpubDf9e2yP37KZM2g==",
   "success": true,
-  "projectFilePath": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Aula02_Sala/Aula02_Sala.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lord_\\Restic18\\adv-meu-repo\\dotNet_p03\\Aula02_Sala\\Aula02_Sala.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lord_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\lord_\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\lord_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\lord_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

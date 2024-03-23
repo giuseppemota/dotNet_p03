@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/giuseppe-mota-araujo/.nuget/packages/": {}
+    "C:\\Users\\lord_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/Semana_03_Sala.csproj",
+      "projectUniqueName": "C:\\Users\\lord_\\Restic18\\adv-meu-repo\\dotNet_p03\\Semana_03_Sala\\Semana_03_Sala.csproj",
       "projectName": "Semana_03_Sala",
-      "projectPath": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/Semana_03_Sala.csproj",
-      "packagesPath": "/home/giuseppe-mota-araujo/.nuget/packages/",
-      "outputPath": "/home/giuseppe-mota-araujo/Documentos/dotNet_p03/Semana_03_Sala/obj/",
+      "projectPath": "C:\\Users\\lord_\\Restic18\\adv-meu-repo\\dotNet_p03\\Semana_03_Sala\\Semana_03_Sala.csproj",
+      "packagesPath": "C:\\Users\\lord_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lord_\\Restic18\\adv-meu-repo\\dotNet_p03\\Semana_03_Sala\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/giuseppe-mota-araujo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lord_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.17, 7.0.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
